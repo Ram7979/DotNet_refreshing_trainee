@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\bin\Debug\net10.0\Assign_Parking_fee_Calculator.exe
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\bin\Debug\net10.0\Assign_Parking_fee_Calculator.deps.json
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\bin\Debug\net10.0\Assign_Parking_fee_Calculator.runtimeconfig.json
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\bin\Debug\net10.0\Assign_Parking_fee_Calculator.dll
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\bin\Debug\net10.0\Assign_Parking_fee_Calculator.pdb
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\obj\Debug\net10.0\Assign_Parking_fee_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\obj\Debug\net10.0\Assign_Parking_fee_Calculator.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\obj\Debug\net10.0\Assign_Parking_fee_Calculator.AssemblyInfo.cs
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\obj\Debug\net10.0\Assign_Parking_fee_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\obj\Debug\net10.0\Assign_Parking_fee_Calculator.dll
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\obj\Debug\net10.0\refint\Assign_Parking_fee_Calculator.dll
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\obj\Debug\net10.0\Assign_Parking_fee_Calculator.pdb
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\obj\Debug\net10.0\Assign_Parking_fee_Calculator.genruntimeconfig.cache
+C:\Users\HP\Documents\c#_on_hold\Assign_Parking_fee_Calculator\obj\Debug\net10.0\ref\Assign_Parking_fee_Calculator.dll

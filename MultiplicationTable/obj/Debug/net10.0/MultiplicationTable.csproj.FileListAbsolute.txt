@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.exe
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.deps.json
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.runtimeconfig.json
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.dll
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\bin\Debug\net10.0\MultiplicationTable.pdb
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.AssemblyInfo.cs
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.dll
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\obj\Debug\net10.0\refint\MultiplicationTable.dll
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.pdb
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\obj\Debug\net10.0\MultiplicationTable.genruntimeconfig.cache
+C:\Users\HP\Documents\c#_on_hold\MultiplicationTable\obj\Debug\net10.0\ref\MultiplicationTable.dll
