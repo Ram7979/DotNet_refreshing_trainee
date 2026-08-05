@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.AssemblyInfo.cs
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.sourcelink.json
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.exe
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.deps.json
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.runtimeconfig.json
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.dll
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\bin\Debug\net10.0\Bike_Rental_Assignment.pdb
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.dll
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\refint\Bike_Rental_Assignment.dll
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.pdb
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\Bike_Rental_Assignment.genruntimeconfig.cache
+C:\Users\HP\Documents\c#_on_hold\Bike_Rental_Assignment\obj\Debug\net10.0\ref\Bike_Rental_Assignment.dll
